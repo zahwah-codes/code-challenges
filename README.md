@@ -11,4 +11,4 @@ I created this repo to save all my progress with code challenges. I'm documentin
 
 ## Updates
 
-I will keep updating this repo weekly with my daily code challenges. My current goal is to work on 3 Codewars and 1 Leetcode a day 👩🏻‍💻
+I will keep updating this repo weekly with my daily code challenges. My current goal is to work on 1 Codewars and 1 Leetcode a day 👩🏻‍💻
